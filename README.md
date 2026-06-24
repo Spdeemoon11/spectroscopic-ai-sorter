@@ -1,6 +1,7 @@
 # Spectroscopic-AI-Sorter (aka SAS)
 Automated spectroscopic pipeline for Gaia data, utilizing 4 cascading AI models to classify stellar Harvard classes, subclasses/MK, Balmer lines, and structural rechecking.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20829903.svg)](https://doi.org/10.5281/zenodo.20829903)
 
 ## Prerequisites to running this project- ##
 Folder structure must look like-
