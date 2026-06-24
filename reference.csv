@@ -1,0 +1,6 @@
+mkk_class,class_name,h_alpha,h_beta,h_epsilon,he_i,he_ii,ca_h,ca_k
+0,I_Supergiant,0.05,0.08,0.05,0.35,0.4,0.1,0.12
+1,II_Bright_Giant,0.15,0.2,0.12,0.2,0.15,0.3,0.35
+2,III_Giant,0.3,0.35,0.25,0.08,0.02,0.55,0.6
+3,IV_Subgiant,0.5,0.55,0.45,0.02,0,0.7,0.75
+4,V_Dwarf,0.75,0.85,0.7,0,0,0.85,0.9
